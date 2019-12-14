@@ -3,6 +3,8 @@ layout: post
 ---
 Thank you for watching my YouTube video.
 
+{% include youtubePlayer.html id=page.JdTU5ADsNpA %}
+
 You can find the upython sourde code from Traffic Light part 1 below:
 
 {% highlight python %}
