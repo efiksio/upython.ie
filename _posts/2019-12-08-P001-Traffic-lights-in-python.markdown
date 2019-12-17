@@ -9,7 +9,7 @@ Thank you for watching my YouTube video.
 
 </div>
 
-You can find the upython sourde code from Traffic Light part 1 below:
+You can find the upython source code from Traffic Light part 1 below:
 
 {% highlight python %}
 from pyb import Pin
