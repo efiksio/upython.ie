@@ -15,6 +15,6 @@ You can find the upython source code below:
 from pyb import Servo
 
 s1 = Servo(1)
-S1.angle(45)
+s1.angle(45)
 
 {% endhighlight %}
